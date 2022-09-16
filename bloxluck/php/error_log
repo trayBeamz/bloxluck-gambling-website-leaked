@@ -1,0 +1,304 @@
+[06-Aug-2022 17:02:07 America/New_York] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home/bloxebiq/public_html/php/database.php:35
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(35): mysqli_stmt->bind_param()
+#1 /home/bloxebiq/public_html/php/inventory_handler.php(86): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/mm2_hook.php(51): getAllPendingWithdraws()
+#3 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 35
+[06-Aug-2022 17:03:04 America/New_York] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home/bloxebiq/public_html/php/database.php:35
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(35): mysqli_stmt->bind_param()
+#1 /home/bloxebiq/public_html/php/inventory_handler.php(86): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/mm2_hook.php(51): getAllPendingWithdraws()
+#3 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 35
+[06-Aug-2022 17:03:44 America/New_York] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home/bloxebiq/public_html/php/database.php:35
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(35): mysqli_stmt->bind_param()
+#1 /home/bloxebiq/public_html/php/inventory_handler.php(86): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/mm2_hook.php(51): getAllPendingWithdraws()
+#3 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 35
+[06-Aug-2022 17:03:44 America/New_York] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home/bloxebiq/public_html/php/database.php:35
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(35): mysqli_stmt->bind_param()
+#1 /home/bloxebiq/public_html/php/inventory_handler.php(86): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/mm2_hook.php(51): getAllPendingWithdraws()
+#3 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 35
+[06-Aug-2022 17:03:44 America/New_York] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home/bloxebiq/public_html/php/database.php:35
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(35): mysqli_stmt->bind_param()
+#1 /home/bloxebiq/public_html/php/inventory_handler.php(86): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/mm2_hook.php(51): getAllPendingWithdraws()
+#3 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 35
+[06-Aug-2022 17:03:44 America/New_York] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home/bloxebiq/public_html/php/database.php:35
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(35): mysqli_stmt->bind_param()
+#1 /home/bloxebiq/public_html/php/inventory_handler.php(86): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/mm2_hook.php(51): getAllPendingWithdraws()
+#3 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 35
+[06-Aug-2022 17:03:44 America/New_York] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home/bloxebiq/public_html/php/database.php:35
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(35): mysqli_stmt->bind_param()
+#1 /home/bloxebiq/public_html/php/inventory_handler.php(86): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/mm2_hook.php(51): getAllPendingWithdraws()
+#3 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 35
+[06-Aug-2022 17:03:44 America/New_York] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home/bloxebiq/public_html/php/database.php:35
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(35): mysqli_stmt->bind_param()
+#1 /home/bloxebiq/public_html/php/inventory_handler.php(86): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/mm2_hook.php(51): getAllPendingWithdraws()
+#3 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 35
+[06-Aug-2022 17:03:45 America/New_York] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home/bloxebiq/public_html/php/database.php:35
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(35): mysqli_stmt->bind_param()
+#1 /home/bloxebiq/public_html/php/inventory_handler.php(86): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/mm2_hook.php(51): getAllPendingWithdraws()
+#3 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 35
+[06-Aug-2022 17:03:46 America/New_York] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home/bloxebiq/public_html/php/database.php:35
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(35): mysqli_stmt->bind_param()
+#1 /home/bloxebiq/public_html/php/inventory_handler.php(86): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/mm2_hook.php(51): getAllPendingWithdraws()
+#3 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 35
+[06-Aug-2022 17:10:03 America/New_York] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home/bloxebiq/public_html/php/database.php:35
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(35): mysqli_stmt->bind_param()
+#1 /home/bloxebiq/public_html/php/inventory_handler.php(86): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/mm2_hook.php(51): getAllPendingWithdraws()
+#3 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 35
+[06-Aug-2022 17:11:48 America/New_York] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home/bloxebiq/public_html/php/database.php:35
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(35): mysqli_stmt->bind_param()
+#1 /home/bloxebiq/public_html/php/inventory_handler.php(86): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/mm2_hook.php(51): getAllPendingWithdraws()
+#3 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 35
+[06-Aug-2022 17:11:48 America/New_York] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home/bloxebiq/public_html/php/database.php:35
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(35): mysqli_stmt->bind_param()
+#1 /home/bloxebiq/public_html/php/inventory_handler.php(86): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/mm2_hook.php(51): getAllPendingWithdraws()
+#3 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 35
+[06-Aug-2022 17:11:48 America/New_York] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home/bloxebiq/public_html/php/database.php:35
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(35): mysqli_stmt->bind_param()
+#1 /home/bloxebiq/public_html/php/inventory_handler.php(86): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/mm2_hook.php(51): getAllPendingWithdraws()
+#3 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 35
+[06-Aug-2022 17:11:48 America/New_York] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home/bloxebiq/public_html/php/database.php:35
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(35): mysqli_stmt->bind_param()
+#1 /home/bloxebiq/public_html/php/inventory_handler.php(86): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/mm2_hook.php(51): getAllPendingWithdraws()
+#3 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 35
+[06-Aug-2022 17:11:49 America/New_York] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home/bloxebiq/public_html/php/database.php:35
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(35): mysqli_stmt->bind_param()
+#1 /home/bloxebiq/public_html/php/inventory_handler.php(86): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/mm2_hook.php(51): getAllPendingWithdraws()
+#3 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 35
+[06-Aug-2022 17:11:49 America/New_York] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home/bloxebiq/public_html/php/database.php:35
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(35): mysqli_stmt->bind_param()
+#1 /home/bloxebiq/public_html/php/inventory_handler.php(86): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/mm2_hook.php(51): getAllPendingWithdraws()
+#3 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 35
+[06-Aug-2022 17:11:49 America/New_York] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home/bloxebiq/public_html/php/database.php:35
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(35): mysqli_stmt->bind_param()
+#1 /home/bloxebiq/public_html/php/inventory_handler.php(86): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/mm2_hook.php(51): getAllPendingWithdraws()
+#3 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 35
+[06-Aug-2022 17:11:49 America/New_York] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home/bloxebiq/public_html/php/database.php:35
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(35): mysqli_stmt->bind_param()
+#1 /home/bloxebiq/public_html/php/inventory_handler.php(86): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/mm2_hook.php(51): getAllPendingWithdraws()
+#3 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 35
+[06-Aug-2022 17:11:49 America/New_York] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home/bloxebiq/public_html/php/database.php:35
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(35): mysqli_stmt->bind_param()
+#1 /home/bloxebiq/public_html/php/inventory_handler.php(86): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/mm2_hook.php(51): getAllPendingWithdraws()
+#3 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 35
+[06-Aug-2022 22:10:55 America/New_York] PHP Parse error:  syntax error, unexpected identifier "https", expecting ")" in /home/bloxebiq/public_html/php/login.php on line 52
+[07-Aug-2022 03:22:07 America/New_York] PHP Fatal error:  Uncaught ValueError: mysqli_stmt::bind_param(): Argument #1 ($types) cannot be empty in /home/bloxebiq/public_html/php/database.php:35
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(35): mysqli_stmt->bind_param()
+#1 /home/bloxebiq/public_html/php/inventory_handler.php(86): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/mm2_hook.php(51): getAllPendingWithdraws()
+#3 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 35
+[07-Aug-2022 03:41:51 America/New_York] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, array given in /home/bloxebiq/public_html/php/main.php:18
+Stack trace:
+#0 /home/bloxebiq/public_html/php/main.php(18): htmlspecialchars()
+#1 /home/bloxebiq/public_html/php/mm2_hook.php(7): include_once('/home/bloxebiq/...')
+#2 {main}
+  thrown in /home/bloxebiq/public_html/php/main.php on line 18
+[07-Aug-2022 03:45:32 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "key" in /home/bloxebiq/public_html/php/main.php:23
+Stack trace:
+#0 /home/bloxebiq/public_html/php/mm2_hook.php(7): include_once()
+#1 {main}
+  thrown in /home/bloxebiq/public_html/php/main.php on line 23
+[07-Aug-2022 03:45:33 America/New_York] PHP Fatal error:  Uncaught Error: Undefined constant "key" in /home/bloxebiq/public_html/php/main.php:23
+Stack trace:
+#0 /home/bloxebiq/public_html/php/mm2_hook.php(7): include_once()
+#1 {main}
+  thrown in /home/bloxebiq/public_html/php/main.php on line 23
+[07-Aug-2022 04:13:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bloxebiq/public_html/php/inventory_handler.php on line 123
+[07-Aug-2022 04:13:21 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'item_id' cannot be null in /home/bloxebiq/public_html/php/database.php:37
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(37): mysqli_stmt->execute()
+#1 /home/bloxebiq/public_html/php/inventory_handler.php(124): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/mm2_hook.php(37): addToInventory()
+#3 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 37
+[07-Aug-2022 04:18:26 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bloxebiq/public_html/php/inventory_handler.php on line 123
+[07-Aug-2022 04:18:26 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'item_id' cannot be null in /home/bloxebiq/public_html/php/database.php:37
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(37): mysqli_stmt->execute()
+#1 /home/bloxebiq/public_html/php/inventory_handler.php(124): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/mm2_hook.php(37): addToInventory()
+#3 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 37
+[07-Aug-2022 06:04:51 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '1682703665' for key 'PRIMARY' in /home/bloxebiq/public_html/php/database.php:37
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(37): mysqli_stmt->execute()
+#1 /home/bloxebiq/public_html/php/roblox_handler.php(44): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/login.php(39): getUserId()
+#3 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 37
+[12-Aug-2022 13:51:03 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '1607218455' for key 'PRIMARY' in /home/bloxebiq/public_html/php/database.php:37
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(37): mysqli_stmt->execute()
+#1 /home/bloxebiq/public_html/php/roblox_handler.php(44): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/login.php(39): getUserId()
+#3 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 37
+[12-Aug-2022 22:35:42 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/bloxebiq/public_html/php/discord_handler.php on line 111
+[12-Aug-2022 22:35:42 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/bloxebiq/public_html/php/discord_handler.php on line 116
+[12-Aug-2022 22:35:42 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/bloxebiq/public_html/php/discord_handler.php on line 121
+[12-Aug-2022 22:35:42 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/bloxebiq/public_html/php/discord_handler.php on line 126
+[12-Aug-2022 22:35:42 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/bloxebiq/public_html/php/discord_handler.php on line 131
+[12-Aug-2022 22:35:42 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/bloxebiq/public_html/php/discord_handler.php on line 136
+[12-Aug-2022 22:35:42 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/bloxebiq/public_html/php/discord_handler.php on line 141
+[12-Aug-2022 22:35:42 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/bloxebiq/public_html/php/discord_handler.php on line 146
+[12-Aug-2022 22:35:42 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/bloxebiq/public_html/php/discord_handler.php on line 146
+[12-Aug-2022 22:35:42 America/New_York] PHP Warning:  Trying to access array offset on value of type bool in /home/bloxebiq/public_html/php/discord_handler.php on line 146
+[13-Aug-2022 05:24:30 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/bloxebiq/public_html/php/game.php on line 101
+[13-Aug-2022 05:37:18 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/bloxebiq/public_html/php/game.php on line 101
+[13-Aug-2022 05:37:19 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/bloxebiq/public_html/php/game.php on line 101
+[13-Aug-2022 06:51:28 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/bloxebiq/public_html/php/game.php on line 101
+[13-Aug-2022 06:51:28 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/bloxebiq/public_html/php/game.php on line 101
+[13-Aug-2022 06:54:15 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/bloxebiq/public_html/php/game.php on line 101
+[13-Aug-2022 06:54:15 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/bloxebiq/public_html/php/game.php on line 101
+[13-Aug-2022 07:02:24 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/bloxebiq/public_html/php/game.php on line 101
+[13-Aug-2022 07:02:24 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/bloxebiq/public_html/php/game.php on line 101
+[13-Aug-2022 17:16:22 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/bloxebiq/public_html/php/game.php on line 101
+[13-Aug-2022 19:12:34 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/bloxebiq/public_html/php/game.php on line 101
+[13-Aug-2022 21:05:42 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/bloxebiq/public_html/php/game.php on line 101
+[13-Aug-2022 21:55:31 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/bloxebiq/public_html/php/game.php on line 101
+[14-Aug-2022 00:25:17 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/bloxebiq/public_html/php/game.php on line 101
+[14-Aug-2022 00:25:17 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/bloxebiq/public_html/php/game.php on line 101
+[14-Aug-2022 01:19:13 America/New_York] PHP Warning:  foreach() argument must be of type array|object, null given in /home/bloxebiq/public_html/php/game.php on line 101
+[14-Aug-2022 19:01:11 America/New_York] PHP Warning:  session_start(): Session ID is too long or contains illegal characters. Only the A-Z, a-z, 0-9, &quot;-&quot;, and &quot;,&quot; characters are allowed in /home/bloxebiq/public_html/php/game.php on line 2
+[14-Aug-2022 19:01:11 America/New_York] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php81/var/lib/php/session) in /home/bloxebiq/public_html/php/game.php on line 2
+[14-Aug-2022 19:01:14 America/New_York] PHP Warning:  session_start(): Session ID is too long or contains illegal characters. Only the A-Z, a-z, 0-9, &quot;-&quot;, and &quot;,&quot; characters are allowed in /home/bloxebiq/public_html/php/game.php on line 2
+[14-Aug-2022 19:01:14 America/New_York] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php81/var/lib/php/session) in /home/bloxebiq/public_html/php/game.php on line 2
+[14-Aug-2022 19:05:28 America/New_York] PHP Warning:  session_start(): Session ID is too long or contains illegal characters. Only the A-Z, a-z, 0-9, &quot;-&quot;, and &quot;,&quot; characters are allowed in /home/bloxebiq/public_html/php/game.php on line 2
+[14-Aug-2022 19:05:28 America/New_York] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php81/var/lib/php/session) in /home/bloxebiq/public_html/php/game.php on line 2
+[14-Aug-2022 19:05:29 America/New_York] PHP Warning:  session_start(): Session ID is too long or contains illegal characters. Only the A-Z, a-z, 0-9, &quot;-&quot;, and &quot;,&quot; characters are allowed in /home/bloxebiq/public_html/php/game.php on line 2
+[14-Aug-2022 19:05:29 America/New_York] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php81/var/lib/php/session) in /home/bloxebiq/public_html/php/game.php on line 2
+[14-Aug-2022 19:06:47 America/New_York] PHP Warning:  session_start(): Session ID is too long or contains illegal characters. Only the A-Z, a-z, 0-9, &quot;-&quot;, and &quot;,&quot; characters are allowed in /home/bloxebiq/public_html/php/game.php on line 2
+[14-Aug-2022 19:06:47 America/New_York] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php81/var/lib/php/session) in /home/bloxebiq/public_html/php/game.php on line 2
+[14-Aug-2022 19:07:14 America/New_York] PHP Warning:  session_start(): Session ID is too long or contains illegal characters. Only the A-Z, a-z, 0-9, &quot;-&quot;, and &quot;,&quot; characters are allowed in /home/bloxebiq/public_html/php/game.php on line 2
+[14-Aug-2022 19:07:14 America/New_York] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php81/var/lib/php/session) in /home/bloxebiq/public_html/php/game.php on line 2
+[14-Aug-2022 19:07:51 America/New_York] PHP Warning:  session_start(): Session ID is too long or contains illegal characters. Only the A-Z, a-z, 0-9, &quot;-&quot;, and &quot;,&quot; characters are allowed in /home/bloxebiq/public_html/php/game.php on line 2
+[14-Aug-2022 19:07:51 America/New_York] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php81/var/lib/php/session) in /home/bloxebiq/public_html/php/game.php on line 2
+[14-Aug-2022 19:08:12 America/New_York] PHP Warning:  session_start(): Session ID is too long or contains illegal characters. Only the A-Z, a-z, 0-9, &quot;-&quot;, and &quot;,&quot; characters are allowed in /home/bloxebiq/public_html/php/game.php on line 2
+[14-Aug-2022 19:08:12 America/New_York] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php81/var/lib/php/session) in /home/bloxebiq/public_html/php/game.php on line 2
+[14-Aug-2022 19:10:50 America/New_York] PHP Warning:  session_start(): Session ID is too long or contains illegal characters. Only the A-Z, a-z, 0-9, &quot;-&quot;, and &quot;,&quot; characters are allowed in /home/bloxebiq/public_html/php/game.php on line 2
+[14-Aug-2022 19:10:50 America/New_York] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php81/var/lib/php/session) in /home/bloxebiq/public_html/php/game.php on line 2
+[14-Aug-2022 19:11:08 America/New_York] PHP Warning:  session_start(): Session ID is too long or contains illegal characters. Only the A-Z, a-z, 0-9, &quot;-&quot;, and &quot;,&quot; characters are allowed in /home/bloxebiq/public_html/php/game.php on line 2
+[14-Aug-2022 19:11:08 America/New_York] PHP Warning:  session_start(): Failed to read session data: files (path: /opt/alt/php81/var/lib/php/session) in /home/bloxebiq/public_html/php/game.php on line 2
+[16-Aug-2022 06:21:35 America/New_York] PHP Warning:  Undefined variable $gameId in /home/bloxebiq/public_html/php/giveaway.php on line 23
+[16-Aug-2022 06:21:35 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bloxebiq/public_html/php/giveaway.php on line 23
+[16-Aug-2022 06:21:35 America/New_York] PHP Warning:  Undefined variable $gameId in /home/bloxebiq/public_html/php/giveaway.php on line 24
+[16-Aug-2022 06:21:35 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bloxebiq/public_html/php/giveaway.php on line 24
+[16-Aug-2022 06:21:39 America/New_York] PHP Warning:  Undefined variable $gameId in /home/bloxebiq/public_html/php/giveaway.php on line 23
+[16-Aug-2022 06:21:39 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bloxebiq/public_html/php/giveaway.php on line 23
+[16-Aug-2022 06:21:39 America/New_York] PHP Warning:  Undefined variable $gameId in /home/bloxebiq/public_html/php/giveaway.php on line 24
+[16-Aug-2022 06:21:39 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bloxebiq/public_html/php/giveaway.php on line 24
+[16-Aug-2022 06:21:44 America/New_York] PHP Warning:  Undefined variable $gameId in /home/bloxebiq/public_html/php/giveaway.php on line 23
+[16-Aug-2022 06:21:44 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bloxebiq/public_html/php/giveaway.php on line 23
+[16-Aug-2022 06:21:44 America/New_York] PHP Warning:  Undefined variable $gameId in /home/bloxebiq/public_html/php/giveaway.php on line 24
+[16-Aug-2022 06:21:44 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bloxebiq/public_html/php/giveaway.php on line 24
+[16-Aug-2022 06:21:53 America/New_York] PHP Warning:  Undefined variable $gameId in /home/bloxebiq/public_html/php/giveaway.php on line 23
+[16-Aug-2022 06:21:53 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bloxebiq/public_html/php/giveaway.php on line 23
+[16-Aug-2022 06:21:53 America/New_York] PHP Warning:  Undefined variable $gameId in /home/bloxebiq/public_html/php/giveaway.php on line 24
+[16-Aug-2022 06:21:53 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bloxebiq/public_html/php/giveaway.php on line 24
+[16-Aug-2022 06:21:56 America/New_York] PHP Warning:  Undefined variable $gameId in /home/bloxebiq/public_html/php/giveaway.php on line 23
+[16-Aug-2022 06:21:56 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bloxebiq/public_html/php/giveaway.php on line 23
+[16-Aug-2022 06:21:56 America/New_York] PHP Warning:  Undefined variable $gameId in /home/bloxebiq/public_html/php/giveaway.php on line 24
+[16-Aug-2022 06:21:56 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bloxebiq/public_html/php/giveaway.php on line 24
+[16-Aug-2022 06:21:58 America/New_York] PHP Warning:  Undefined variable $gameId in /home/bloxebiq/public_html/php/giveaway.php on line 23
+[16-Aug-2022 06:21:58 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bloxebiq/public_html/php/giveaway.php on line 23
+[16-Aug-2022 06:21:58 America/New_York] PHP Warning:  Undefined variable $gameId in /home/bloxebiq/public_html/php/giveaway.php on line 24
+[16-Aug-2022 06:21:58 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bloxebiq/public_html/php/giveaway.php on line 24
+[16-Aug-2022 06:22:00 America/New_York] PHP Warning:  Undefined variable $gameId in /home/bloxebiq/public_html/php/giveaway.php on line 23
+[16-Aug-2022 06:22:00 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bloxebiq/public_html/php/giveaway.php on line 23
+[16-Aug-2022 06:22:00 America/New_York] PHP Warning:  Undefined variable $gameId in /home/bloxebiq/public_html/php/giveaway.php on line 24
+[16-Aug-2022 06:22:00 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bloxebiq/public_html/php/giveaway.php on line 24
+[16-Aug-2022 06:26:44 America/New_York] PHP Warning:  Undefined variable $gameId in /home/bloxebiq/public_html/php/giveaway.php on line 23
+[16-Aug-2022 06:26:44 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bloxebiq/public_html/php/giveaway.php on line 23
+[16-Aug-2022 06:26:44 America/New_York] PHP Warning:  Undefined variable $gameId in /home/bloxebiq/public_html/php/giveaway.php on line 24
+[16-Aug-2022 06:26:44 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/bloxebiq/public_html/php/giveaway.php on line 24
+[16-Aug-2022 06:35:26 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home/bloxebiq/public_html/php/database.php:24
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(24): mysqli->prepare()
+#1 /home/bloxebiq/public_html/php/giveaway_handler.php(119): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/giveaway.php(31): joinGiveaway()
+#3 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 24
+[16-Aug-2022 06:36:05 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'id' in 'where clause' in /home/bloxebiq/public_html/php/database.php:24
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(24): mysqli->prepare()
+#1 /home/bloxebiq/public_html/php/giveaway_handler.php(119): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/giveaway.php(31): joinGiveaway()
+#3 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 24
+[16-Aug-2022 11:01:22 America/New_York] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/bloxebiq/public_html/php/game.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/bloxebiq/public_html/php/game.php on line 43
+[16-Aug-2022 11:02:21 America/New_York] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/bloxebiq/public_html/php/game.php:43
+Stack trace:
+#0 {main}
+  thrown in /home/bloxebiq/public_html/php/game.php on line 43
+[16-Aug-2022 13:52:37 America/New_York] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/bloxebiq/public_html/php/giveaway.php on line 57
+[18-Aug-2022 03:09:13 America/New_York] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection was killed in /home/bloxebiq/public_html/php/database.php:24
+Stack trace:
+#0 /home/bloxebiq/public_html/php/database.php(24): mysqli->prepare()
+#1 /home/bloxebiq/public_html/php/game_handler.php(67): MySQLConn->queryPrepared()
+#2 /home/bloxebiq/public_html/php/discord_handler.php(105): getGameData()
+#3 /home/bloxebiq/public_html/php/game_handler.php(288): sendGamePlayedWebhook()
+#4 /home/bloxebiq/public_html/php/game.php(66): playGame()
+#5 {main}
+  thrown in /home/bloxebiq/public_html/php/database.php on line 24
